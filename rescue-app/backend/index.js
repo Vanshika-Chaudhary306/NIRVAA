@@ -142,6 +142,7 @@ app.post('/api/v1/journey/checkin', (req, res) => {
 });
 
 const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => {
-  console.log(`🚀 NIRVAA Multi-Signal Backend running on http://localhost:${PORT}`);
+
+app.listen(PORT, "0.0.0.0", () => {
+  console.log(`🚀 NIRVAA Multi-Signal Backend running on port ${PORT}`);
 });
