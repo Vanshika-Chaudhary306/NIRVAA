@@ -1,16 +1,38 @@
-# React + Vite
+# NIRVAA — Navigate Intelligently, Respond Vigilantly, and Act Aware
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> *Because the fastest route isn't always the safest. Guiding you home safely based on street lighting, pedestrian activity, and safety data.*
 
-Currently, two official plugins are available:
+NIRVAA is a women's safety-focused navigation and personal security web application designed to help users make safety-aware travel decisions, monitor live transit conditions, and instantly escalate emergencies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 👥 Team Members
+* **Vanshika**
+* **Aaruhi**
+* **Sparsh**
+* **Ayush**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Key Features
+* **Safe Route Finder:** Intelligent destination input and route mapping that prioritizes lighting density and safety indexes over mere speed.
+* **Crowdsourced Safety Reporting:** Quick hazard reporting for *Suspicious Activity*, *Broken Streetlights*, and *Police Presence*.
+* **Active Safety Controls & Monitoring:** Real-time system status indicator (`USER SECURE`), verified emergency contact syncing, and a nearest police dispatch locator.
+* **Automated Safety Check & SOS:** Anomaly detection triggering a 28-second countdown timer with auto-dispatching to trusted contacts and emergency services (`112 / 911`).
+* **Support Tools:** Integrated simulation and safety controls for high-risk transit scenarios.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+* **Frontend:** Modern responsive UI featuring a high-contrast dark theme, custom map integration, and bottom tab navigation.
+* **Backend:** Node.js & Express server handling routing logic, user safety status, and emergency endpoint triggers.
+* **Location Services:** Live GPS tracking for real-time progression monitoring.
+
+---
+
+## ⚙️ How to Run the Project Locally
+
+1. **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/Vanshika-Chaudhary306/NIRVAA.git](https://github.com/Vanshika-Chaudhary306/NIRVAA.git)
+   cd NIRVAA/rescue-app
