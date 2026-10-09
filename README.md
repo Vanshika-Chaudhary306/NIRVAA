@@ -1,4 +1,13 @@
-# NIRVAA — Navigate Intelligently, Respond Vigilantly, and Act Aware
+# NIRVAA 🚨
+
+An emergency response platform designed for real-time incidents and location mapping.
+
+[![Render Deployment](https://img.shields.io/badge/Render-Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://nirvaa-frontend.onrender.com/)
+
+## 🌐 Project Links
+
+- 🚀 **Interactive Prototype:** [nirvaa-frontend.onrender.com](https://nirvaa-frontend.onrender.com/)
+- ⚡ **Backend API Endpoint:** `https://nirvaa-api.onrender.com` (if applicable)# NIRVAA — Navigate Intelligently, Respond Vigilantly, and Act Aware
 
 > *Because the fastest route isn't always the safest. Guiding you home safely based on street lighting, pedestrian activity, and safety data.*
 
