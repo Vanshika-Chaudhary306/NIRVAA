@@ -7,7 +7,7 @@ An emergency response platform designed for real-time incidents and location map
 ## 🌐 Project Links
 
 - 🚀 **Live Prototype:** [nirvaa-frontend.onrender.com](https://nirvaa-frontend.onrender.com)
-- 📊 **Pitch Deck:** [View our Presentation](https://forms.gle/2JAChkn2Y8sWouGq5)
+- 📊 **Pitch Deck:** [View our Presentation](https://docs.google.com/presentation/d/1CO-94QT2VPmFvcqU3dBzSygJCNDvwNPY/edit?usp=sharing&ouid=111033253982529537956&rtpof=true&sd=true)
 > 💡 **Display Note:** For the best experience, please open the live prototype on a **Laptop/Desktop** or enable **"Desktop Site"** mode on your mobile browser. Because the core interface features an interactive map, navigation controls and overlays may be hidden on smaller mobile screens.
 
 > *Because the fastest route isn't always the safest. Guiding you home safely based on street lighting, pedestrian activity, and safety data.*
