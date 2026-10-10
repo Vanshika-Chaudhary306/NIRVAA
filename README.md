@@ -6,8 +6,8 @@ An emergency response platform designed for real-time incidents and location map
 
 ## 🌐 Project Links
 
-- 🚀 **Interactive Prototype:** [nirvaa-frontend.onrender.com](https://nirvaa-frontend.onrender.com/)
-- ⚡ **Backend API Endpoint:** `https://nirvaa-api.onrender.com` (if applicable)# NIRVAA — Navigate Intelligently, Respond Vigilantly, and Act Aware
+- 🚀 **Live Prototype:** [nirvaa-frontend.onrender.com](https://nirvaa-frontend.onrender.com)
+- 📊 **Pitch Deck:** [View our Presentation](https://docs.google.com/presentation/d/19jxKkamlPiRYGn8KvFlcChxdE1EYUPu3/edit?usp=sharing&ouid=111033253982529537956&rtpof=true&sd=true)
 
 > *Because the fastest route isn't always the safest. Guiding you home safely based on street lighting, pedestrian activity, and safety data.*
 
